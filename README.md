@@ -4,7 +4,7 @@
 
 - pyinstaller
 
-- in PyCharm terminall run the following command to create exe file:
+- in terminal run the following command to create exe file:
 
 ```
 pyinstaller --noconsole file_name.py
